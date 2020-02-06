@@ -1,0 +1,33 @@
+body {
+    background-color: aqua;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+form{
+    display: table;
+}
+
+input{
+    display: table-cell;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+label{
+    display: table-cell;
+    margin-bottom: 5px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+div{
+    display: table-row;
+}
+
+.w{
+    width: 12em;
+}
